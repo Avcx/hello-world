@@ -1,2 +1,5 @@
 # hello-world
-My first Repo
+
+What's good future me!
+When you read this you'll probably actually know how to Git
+but until then...
